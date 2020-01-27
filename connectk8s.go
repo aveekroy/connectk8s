@@ -1,9 +1,3 @@
-//Accessing the K8s cluster outside of the cluster itself to know more about various objects in the K8s cluster.
-
-//Pre-requisites:
-//1	Run a K8s cluster using miinikube
-//2	Learning more about modules in golang
-
 package main
 
 import (
